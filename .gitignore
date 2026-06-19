@@ -1,0 +1,23 @@
+# Node
+node_modules/
+
+# Env files
+.env
+*.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Screenshots / assets (generated placeholders allowed)
+/screenshots/
