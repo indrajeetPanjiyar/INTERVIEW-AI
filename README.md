@@ -271,23 +271,6 @@ The frontend expects the backend at `http://localhost:3000` and uses credentials
 
 ---
 
-## Screenshots
-
-Add screenshots in these locations:
-
-- Home / Generate form — insert image here
-- Interview report — insert image here
-- Login / Register — insert image here
-
-Example markdown to add screenshots:
-
-```md
-![Home Page](./screenshots/home.png)
-![Interview Report](./screenshots/report.png)
-```
-
----
-
 ## Contributing
 
 - Open an issue describing the change or bug.
